@@ -1,5 +1,23 @@
 # TOPICOS-DE-IA
-Contenido de la tarea:
-La Inteligencia Artificial (IA) ha evolucionado rápidamente, impactando diversos sectores como la salud, la educación, las finanzas, la industria y la seguridad. Este documento analiza sus principales áreas y aplicaciones, destacando su papel en la automatización, el procesamiento de datos y la toma de decisiones.
 
-A lo largo del trabajo, se explorará qué es la IA, sus enfoques y su uso en distintas industrias. Además, se discutirán sus beneficios, desafíos y el impacto en la sociedad. Finalmente, se presentarán conclusiones sobre su desarrollo y perspectivas futuras.
+## Autor:
+[Ivan Eduardo Ramirez Moreno]
+
+## Descripción:
+Este repositorio contiene un trabajo de investigación sobre las ""áreas y aplicaciones de la Inteligencia Artificial (IA)"". Se analizan sus principales usos en sectores como la salud, la educación, las finanzas, la industria y la seguridad, destacando su impacto en la automatización y la toma de decisiones.
+
+## Contenido:
+El documento incluye:  
+- Una introducción al concepto de IA y sus enfoques principales.  
+- Aplicaciones en diversas industrias y su papel en la transformación digital.  
+- Beneficios, desafíos y tendencias futuras de la IA.  
+- Conclusiones sobre su impacto en la sociedad.  
+
+## Archivos incluidos:
+"Investigación.pdf" → Documento en formato PDF con la investigación completa. 
+
+## Referencias:
+Las fuentes utilizadas en este trabajo siguen el "formato APA 7" y provienen de autores especializados y publicaciones confiables sobre IA.
+
+## Instrucciones: 
+Para acceder a los archivos, puedes descargar este repositorio o abrir directamente los documentos PDF.
