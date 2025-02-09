@@ -14,7 +14,7 @@ El documento incluye:
 - Conclusiones sobre su impacto en la sociedad.  
 
 ## Archivos incluidos:
-"Investigación.pdf" → Documento en formato PDF con la investigación completa. 
+"Areas y aplicaciones de la inteligencia artificial.pdf" → Documento en formato PDF con la investigación completa. 
 
 ## Referencias:
 Las fuentes utilizadas en este trabajo siguen el "formato APA 7" y provienen de autores especializados y publicaciones confiables sobre IA.
