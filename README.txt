@@ -17,6 +17,7 @@ Los documentos incluyen:
 ## Archivos incluidos:
 - "Areas y aplicaciones de la inteligencia artificial.pdf" → Documento en formato PDF con la investigación completa.
 - "Sistema experto uso de logica difusa.pdf" → Documento que explica el uso de lógica difusa en sistemas expertos, con ejemplos y código fuente.
+-"Inteligencia-Artificial-Areas-Y-Aplicaciones.pptx" → Diapositivas sobre el documento "Areas y aplicaciones de la inteligencia artificial.pdf".
 
 ## Referencias:
 Las fuentes utilizadas en estos trabajos siguen el "formato APA 7" y provienen de autores especializados y publicaciones confiables sobre IA.
