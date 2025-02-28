@@ -6,6 +6,7 @@
 ## Descripción:
 Este repositorio contiene trabajos de investigación sobre diversas áreas de la Inteligencia Artificial (IA). Se analizan sus principales usos en sectores como la salud, la educación, las finanzas, la industria y la seguridad, destacando su impacto en la automatización y la toma de decisiones. Además, se incluye un estudio sobre sistemas expertos con lógica difusa y su aplicación en la toma de decisiones inteligentes.
 Ademas contiene una investigacion de un sistema experto que usa la logica difusa.
+Tambien el documento formal "Protocolo de proyecto de investigacion.pdf" que describe el plan completo de la investigación, incluyendo introducción, objetivos, justificación, marco teórico, metodología y productos esperados.
 
 ## Contenido:
 Los documentos incluyen:
@@ -22,6 +23,7 @@ Los documentos incluyen:
 - "Inteligencia-Artificial-Areas-Y-Aplicaciones.pptx" → Diapositivas sobre el documento "Areas y aplicaciones de la inteligencia artificial.pdf".
 - "IA Logica difusa.pptx" → Diapositivas sobre el documento "Sistema experto uso de logica difusa.pdf".
 - "aires.py" → codigo en python de ejemplo del sistema experto que usa la logica difusa.
+- "Protocolo de proyecto de investigacion.pdf" →  Sistema Experto Analítico-Predictivo ante Sequías en el Estado de Sinaloa.
 
 ## Referencias:
 Las fuentes utilizadas en estos trabajos siguen el "formato APA 7" y provienen de autores especializados y publicaciones confiables sobre IA.
