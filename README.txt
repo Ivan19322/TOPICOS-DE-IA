@@ -24,6 +24,7 @@ Los documentos incluyen:
 - "IA Logica difusa.pptx" → Diapositivas sobre el documento "Sistema experto uso de logica difusa.pdf".
 - "aires.py" → codigo en python de ejemplo del sistema experto que usa la logica difusa.
 - "Protocolo de proyecto de investigacion.pdf" →  Sistema Experto Analítico-Predictivo ante Sequías en el Estado de Sinaloa.
+- "Protocolo de proyecto de investigacion (presentacion).pptx" → Diapositivas del documento "Protocolo de proyecto de investigacion.pdf".
 
 ## Referencias:
 Las fuentes utilizadas en estos trabajos siguen el "formato APA 7" y provienen de autores especializados y publicaciones confiables sobre IA.
