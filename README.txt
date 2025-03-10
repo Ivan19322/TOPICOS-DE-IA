@@ -7,7 +7,7 @@
 Este repositorio contiene trabajos de investigación sobre diversas áreas de la Inteligencia Artificial (IA). Se analizan sus principales usos en sectores como la salud, la educación, las finanzas, la industria y la seguridad, destacando su impacto en la automatización y la toma de decisiones. Además, se incluye un estudio sobre sistemas expertos con lógica difusa y su aplicación en la toma de decisiones inteligentes.
 Ademas contiene una investigacion de un sistema experto que usa la logica difusa.
 Tambien el documento formal "Protocolo de proyecto de investigacion.pdf" que describe el plan completo de la investigación, incluyendo introducción, objetivos, justificación, marco teórico, metodología y productos esperados.
-Lista de problemas de optimización y algoritmos fundamentales en teoría de grafos y optimización combinatoria.
+Lista de problemas de optimización y algoritmos fundamentales en teoría de grafos y optimización combinatoria al igual que la presentacion de la misma.
 
 ## Contenido:
 Los documentos incluyen:
@@ -27,6 +27,7 @@ Los documentos incluyen:
 - "Protocolo de proyecto de investigacion.pdf" →  Sistema Experto Analítico-Predictivo ante Sequías en el Estado de Sinaloa.
 - "Protocolo de proyecto de investigacion (presentacion).pptx" → Diapositivas del documento "Protocolo de proyecto de investigacion.pdf".
 - "Tarea 1-Unidad 2-Problemas de optimizacion y algoritmos.pdf" → invetigacion y representacion de los 4 problemas de optimizacion y algoritmos.
+- "Problemas y algoritmos de optimización.pptx" → Diapositivas del documento "Tarea 1-Unidad 2-Problemas de optimizacion y algoritmos.pdf".
 
 ## Referencias:
 Las fuentes utilizadas en estos trabajos siguen el "formato APA 7" y provienen de autores especializados y publicaciones confiables sobre IA.
