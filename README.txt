@@ -8,6 +8,7 @@ Este repositorio contiene trabajos de investigación sobre diversas áreas de la
 Ademas contiene una investigacion de un sistema experto que usa la logica difusa.
 Tambien el documento formal "Protocolo de proyecto de investigacion.pdf" que describe el plan completo de la investigación, incluyendo introducción, objetivos, justificación, marco teórico, metodología y productos esperados.
 Lista de problemas de optimización y algoritmos fundamentales en teoría de grafos y optimización combinatoria al igual que la presentacion de la misma.
+Un documento del problema de las n reinas y la busqueda tabu al igual que una presentacion y el codigo en python.
 
 ## Contenido:
 Los documentos incluyen:
@@ -28,6 +29,9 @@ Los documentos incluyen:
 - "Protocolo de proyecto de investigacion (presentacion).pptx" → Diapositivas del documento "Protocolo de proyecto de investigacion.pdf".
 - "Tarea 1-Unidad 2-Problemas de optimizacion y algoritmos.pdf" → invetigacion y representacion de los 4 problemas de optimizacion y algoritmos.
 - "Problemas y algoritmos de optimización.pptx" → Diapositivas del documento "Tarea 1-Unidad 2-Problemas de optimizacion y algoritmos.pdf".
+- "Tarea 2-Unidad 2-Problema n reinas.pdf" → documentacion del problema de las N reinas.
+- "El-Problema-de-las-N-Reinas-Un-Desafio-Clasico.pptx" → Diapositivas del documento "Tarea 2-Unidad 2-Problema n reinas.pdf".
+- "nReinas.py" → Codigo echo en python de las n reinas.
 
 ## Referencias:
 Las fuentes utilizadas en estos trabajos siguen el "formato APA 7" y provienen de autores especializados y publicaciones confiables sobre IA.
