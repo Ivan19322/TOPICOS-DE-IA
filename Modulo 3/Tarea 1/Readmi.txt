@@ -1,1 +1,28 @@
-Tarea 1
+# TOPICOS-DE-IA
+
+## Autor:
+[Ivan Eduardo Ramirez Moreno]
+
+## Descripción:
+Este repositorio contiene una investigación detallada sobre el algoritmo de Evolución Diferencial (Differential Evolution, DE), un método metaheurístico de optimización global basado en algoritmos evolutivos. Se abordan sus fundamentos teóricos, motivación histórica, operadores principales (mutación, recombinación y selección), así como sus aplicaciones en distintos campos de la ciencia y la ingeniería.
+
+
+## Contenido:
+Los documentos incluyen:
+- Introducción a los algoritmos evolutivos y su papel en la optimización compleja.
+- Historia y motivación detrás del desarrollo de la Evolución Diferencial.
+- Fundamentos matemáticos del algoritmo DE.
+- Estrategias de mutación y su impacto en el rendimiento.
+- Aplicaciones en áreas como ingeniería, inteligencia artificial, biología computacional, entre otras.
+- Comparación con otros algoritmos evolutivos (GA, PSO).
+- Guía sobre el ajuste de hiperparámetros clave.
+- Conclusión sobre la eficacia y versatilidad del algoritmo DE.
+
+## Archivos incluidos:
+- "Tarea 1-Investigación sobre Evolución Diferencial.pdf" → Documento en formato PDF con la investigación completa.
+
+## Referencias:
+Las fuentes utilizadas en estos trabajos siguen el "formato APA 7" y provienen de autores especializados y publicaciones confiables sobre IA.
+
+## Instrucciones:
+Para acceder a los archivos, puedes descargar este repositorio o abrir directamente los documentos PDF.
