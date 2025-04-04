@@ -5,6 +5,7 @@
 
 ## Descripción:
 Este repositorio contiene una investigación detallada sobre el algoritmo de Evolución Diferencial (Differential Evolution, DE), un método metaheurístico de optimización global basado en algoritmos evolutivos. Se abordan sus fundamentos teóricos, motivación histórica, operadores principales (mutación, recombinación y selección), así como sus aplicaciones en distintos campos de la ciencia y la ingeniería.
+Contiene la presentacion del mismo.
 
 
 ## Contenido:
@@ -20,6 +21,8 @@ Los documentos incluyen:
 
 ## Archivos incluidos:
 - "Tarea 1-Investigación sobre Evolución Diferencial.pdf" → Documento en formato PDF con la investigación completa.
+- "Evolucion-Diferencial.pptx" → Presentacion de la tarea, del contenido de "Tarea 1-Investigación sobre Evolución Diferencial.pdf".
+
 
 ## Referencias:
 Las fuentes utilizadas en estos trabajos siguen el "formato APA 7" y provienen de autores especializados y publicaciones confiables sobre IA.
