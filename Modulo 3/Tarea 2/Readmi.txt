@@ -1,1 +1,42 @@
-Tarea 2
+# TÓPICOS DE INTELIGENCIA ARTIFICIAL  
+## Algoritmo de Enjambre de Partículas (Particle Swarm Optimization, PSO)
+
+### Autor:  
+**Iván Eduardo Ramírez Moreno**
+
+---
+
+##Descripción
+
+Este repositorio contiene una investigación detallada sobre el **Algoritmo de Enjambre de Partículas (PSO)**, una técnica metaheurística de optimización basada en la inteligencia colectiva y el comportamiento social de organismos como aves o peces. El documento incluye el análisis teórico, histórico, matemático, así como aplicaciones reales y comparación con otros algoritmos de optimización. También se incluye un archivo `.py` con una implementación funcional del algoritmo.
+
+---
+
+##Contenido de la investigación
+
+La investigación cubre los siguientes temas:
+
+- Concepto de algoritmos de optimización y su importancia en la inteligencia artificial.
+- Introducción teórica al algoritmo PSO y su relación con la inteligencia de enjambre.
+- Origen y motivación del algoritmo propuesto por Kennedy y Eberhart en 1995.
+- Fundamentos matemáticos: actualización de posición y velocidad de partículas.
+- Comportamiento de exploración y explotación del espacio de búsqueda.
+- Ajuste de parámetros: coeficientes de aceleración, inercia, número de partículas.
+- Ejemplo práctico de aplicación para la optimización de una función matemática.
+- Comparación con otros algoritmos (como DE y GA).
+- Ventajas, desventajas y casos de uso en ingeniería, ciencia de datos, robótica, etc.
+- Conclusión sobre la eficacia del PSO en la resolución de problemas complejos.
+
+---
+
+##Archivos incluidos
+
+- `Enjambre de particulas.pdf` → Documento en PDF con el desarrollo completo de la investigación.
+- `particle_swarm.py` → Script en Python que implementa el algoritmo PSO para la optimización de una función matemática.
+
+---
+## Referencias:
+Las fuentes utilizadas en estos trabajos siguen el "formato APA 7" y provienen de autores especializados y publicaciones confiables sobre IA.
+
+## Instrucciones:
+Para acceder a los archivos, puedes descargar este repositorio o abrir directamente los documentos PDF.
