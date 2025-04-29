@@ -9,6 +9,7 @@
 ##Descripción
 
 Este repositorio contiene una investigación detallada sobre el **Algoritmo de Enjambre de Partículas (PSO)**, una técnica metaheurística de optimización basada en la inteligencia colectiva y el comportamiento social de organismos como aves o peces. El documento incluye el análisis teórico, histórico, matemático, así como aplicaciones reales y comparación con otros algoritmos de optimización. También se incluye un archivo `.py` con una implementación funcional del algoritmo.
+Este repositorio contiene una implementación funcional del Algoritmo de Enjambre de Partículas (PSO), una técnica de optimización inspirada en el comportamiento social de grupos como aves o peces. El archivo incluido permite simular el proceso de búsqueda de soluciones óptimas utilizando partículas que ajustan su posición y velocidad en función de su experiencia individual y colectiva.
 
 ---
 
@@ -26,6 +27,13 @@ La investigación cubre los siguientes temas:
 - Comparación con otros algoritmos (como DE y GA).
 - Ventajas, desventajas y casos de uso en ingeniería, ciencia de datos, robótica, etc.
 - Conclusión sobre la eficacia del PSO en la resolución de problemas complejos.
+La implementación incluye los siguientes aspectos:
+-Inicialización de partículas con posiciones y velocidades aleatorias.
+-Evaluación de las partículas mediante una función objetivo.
+-Actualización de posiciones y velocidades usando componentes cognitivo, social e inercial.
+-Identificación de la mejor solución global alcanzada por el enjambre.
+-Ejemplo de uso aplicado a la minimización de una función matemática.
+
 
 ---
 
@@ -33,10 +41,13 @@ La investigación cubre los siguientes temas:
 
 - `Enjambre de particulas.pdf` → Documento en PDF con el desarrollo completo de la investigación.
 - `particle_swarm.py` → Script en Python que implementa el algoritmo PSO para la optimización de una función matemática.
+- 'particle_swarm2.py' → Script en Python que implementa el algoritmo PSO con un ejemplo práctico.
 
 ---
 ## Referencias:
 Las fuentes utilizadas en estos trabajos siguen el "formato APA 7" y provienen de autores especializados y publicaciones confiables sobre IA.
+Las ideas presentadas están basadas en el algoritmo propuesto por Kennedy y Eberhart (1995), aplicadas en el contexto de la optimización mediante inteligencia de enjambre.
 
 ## Instrucciones:
 Para acceder a los archivos, puedes descargar este repositorio o abrir directamente los documentos PDF.
+Para ejecutar el script, descarga este repositorio y abre el archivo .py con cualquier entorno de desarrollo compatible con Python 3.
