@@ -1,1 +1,67 @@
-tarea 4
+# TÓPICOS DE INTELIGENCIA ARTIFICIAL  
+## Algoritmo Genético para el Problema del Agente Viajero (Traveling Salesman Problem, TSP)
+
+### Autor:  
+**Iván Eduardo Ramírez Moreno**
+
+---
+
+## Descripción
+
+Este repositorio contiene la implementación de un **Algoritmo Genético (GA)** para resolver el **Problema del Agente Viajero (TSP)**, un problema clásico de optimización combinatoria. El objetivo es encontrar la ruta más corta que pase por todas las ciudades exactamente una vez y que regrese al punto de partida. Este enfoque utiliza conceptos evolutivos como selección, cruce y mutación para aproximarse a la solución óptima.
+
+Además, se realizará una **investigación detallada** sobre el uso de algoritmos genéticos en el TSP. La investigación incluirá su base teórica, aplicaciones prácticas y comparación con otros algoritmos de optimización. Una vez completada, el documento será añadido a este repositorio.
+
+---
+
+## Contenido del Algoritmo
+
+El algoritmo genético implementado en este repositorio incluye los siguientes pasos:
+
+1. **Inicialización**: Generación aleatoria de una población inicial de rutas.
+2. **Evaluación**: Cálculo de la aptitud de cada ruta en función de la distancia total recorrida.
+3. **Selección**: Selección de padres utilizando el método de ruleta para generar nuevas rutas.
+4. **Cruce**: Combinación de rutas de los padres para formar rutas hijas.
+5. **Mutación**: Modificación aleatoria de una parte de la ruta para explorar nuevas soluciones.
+6. **Reemplazo**: Actualización de la población con las nuevas rutas generadas.
+7. **Iteración**: Repetición del proceso hasta alcanzar un número máximo de generaciones o una solución satisfactoria.
+
+---
+
+## Contenido de la Investigación
+
+La investigación cubrirá los siguientes temas:
+
+- Introducción al Problema del Agente Viajero y su relevancia en la optimización combinatoria.
+- Fundamentos teóricos de los algoritmos genéticos.
+- Implementación de algoritmos genéticos para el TSP: selección, cruce y mutación.
+- Comparación con otros métodos de optimización, como Enjambre de Partículas (PSO) y Programación Dinámica.
+- Aplicaciones prácticas del TSP optimizado con algoritmos genéticos en logística, robótica y más.
+- Ventajas y limitaciones de los algoritmos genéticos para resolver el TSP.
+- Conclusiones sobre la eficacia de este enfoque en problemas complejos.
+
+---
+
+## Archivos incluidos
+
+- `GA_Agente_viajero.py` → Script en Python que implementa el algoritmo genético para resolver el TSP.
+- `Investigación_TSP_GA.pdf` → Documento de investigación sobre el uso de algoritmos genéticos en el TSP (próximamente).
+
+---
+
+## Instrucciones
+
+### Requisitos
+- Python 3.x
+- Librerías requeridas: `random`, `numpy`
+
+### Ejecución
+1. Descarga este repositorio.
+2. Abre el archivo `GA_Agente_viajero.py` en tu entorno de desarrollo.
+3. Ejecuta el script y observa los resultados en la consola.
+
+---
+
+## Referencias
+
+Las ideas presentadas están basadas en los principios de algoritmos genéticos y su aplicación en problemas de optimización combinatoria. La investigación se enriquecerá con fuentes confiables y estudios recientes sobre inteligencia artificial y optimización.
