@@ -1,1 +1,30 @@
-hjgjhv
+TÓPICOS DE INTELIGENCIA ARTIFICIAL
+Red Neuronal para Operaciones Aritméticas Básicas
+Autor:
+[Ivan Eduardo Ramirez Moreno]
+
+##Descripción:
+Este repositorio contiene la implementación de una Red Neuronal Artificial (RNA), específicamente un Perceptrón Multicapa (MLP), diseñada para aprender y predecir los resultados de las cuatro operaciones aritméticas básicas: suma, resta, multiplicación y división entre dos números.
+El modelo se entrena a partir de datos sintéticos y demuestra la capacidad de las redes neuronales para resolver problemas de regresión numérica, siguiendo los conceptos de redes neuronales y Perceptrón Multicapa vistos en la materia.
+
+##El proceso de entrenamiento incluye:
+1.Generación y Normalización de Datos: Creación y escalado de datos de entrada/salida.
+2.Definición y Compilación del Modelo: Construcción de una red neuronal multicapa con Keras, configurada para regresión.
+3.Entrenamiento y Evaluación: Aprendizaje del modelo y medición de su rendimiento en datos no vistos.
+4.Predicción: Función para probar el modelo con nuevos números.
+
+##Archivos incluidos:
+-"Operaciones_basicas.py" → Script en Python que implementa y entrena la red neuronal.
+-"Tarea 1 - red neuronal - operaciones aritmeticas.pdf" → Documento de investigación sobre el modelo.
+
+##Instrucciones:
+##Requisitos:
+-Python 3.x
+-Librerías: numpy, tensorflow, scikit-learn (instalar con pip).
+
+Ejecución:
+1.Descarga el repositorio.
+2.Ejecuta modelo_operaciones_aritmeticas.py.
+
+Referencias:
+Basado en los principios de redes neuronales y el material de estudio de "Tópicos Selectos de Inteligencia Artificial".
