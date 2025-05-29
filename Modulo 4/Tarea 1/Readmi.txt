@@ -24,7 +24,7 @@ El modelo se entrena a partir de datos sintéticos y demuestra la capacidad de l
 
 Ejecución:
 1.Descarga el repositorio.
-2.Ejecuta modelo_operaciones_aritmeticas.py.
+2.Ejecuta Operaciones_basicas.py.
 
 Referencias:
 Basado en los principios de redes neuronales y el material de estudio de "Tópicos Selectos de Inteligencia Artificial".
