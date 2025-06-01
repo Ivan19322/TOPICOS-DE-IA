@@ -1,2 +1,2 @@
-link:
+link para descargar el modelo .h5:
 https://drive.google.com/file/d/1m1J82iLBbdEcy5AFkTFQEeYmZzIHPcxy/view?usp=sharing
