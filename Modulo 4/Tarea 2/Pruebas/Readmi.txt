@@ -1,1 +1,1 @@
-Imagenes de prueba del clasificador de plantas
+Imágenes de prueba tomadas con el celular y de plantas reales en casa para validar el funcionamiento del clasificador.
